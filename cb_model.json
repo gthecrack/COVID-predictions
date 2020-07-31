@@ -1128,7 +1128,7 @@
   "model_info":
     {
       "catboost_version_info":"Git info:\n    Commit: b62ebd15985cffed82d72272fc8b69eb81f57090\n    Branch: heads/master\n    Author: Stanislav Kirillov <staskirillov@gmail.com>\n    Summary: MLTOOLS-4589: fix empty asymmetric tree index calculation, issue #1104\n    git-svn info:\n    Last Changed Rev: 6146963\n\nOther info:\n    Build by: PLATFORM-W10$\n    Top src dir: C:\\GoAgent\\pipelines\\BuildMaster\\catboost.git\n    Top build dir: C:\\Users\\zomb-ml-platform-msk\\.ya\\build\n    Hostname: platform-w10\n    Host information: \n        Microsoft Windows [Version 10.0.17134.1184]\n\n    ",
-      "model_guid":"51ffb16f-7ee58a4-ea199b23-c22dd317",
+      "model_guid":"efccea32-d9724778-d25f19cd-720b1f8a",
       "output_options":"{\"name\":\"experiment\",\"verbose\":0,\"test_error_log\":\"test_error.tsv\",\"json_log\":\"catboost_training.json\",\"result_model_file\":\"model\",\"roc_file\":\"\",\"eval_file_name\":\"\",\"use_best_model\":false,\"allow_writing_files\":true,\"prediction_type\":[\"RawFormulaVal\"],\"fstr_internal_file\":\"\",\"output_columns\":[\"SampleId\",\"RawFormulaVal\",\"Label\"],\"snapshot_interval\":600,\"time_left_log\":\"time_left.tsv\",\"fstr_type\":\"FeatureImportance\",\"profile_log\":\"catboost_profile.log\",\"train_dir\":\"catboost_info\",\"learn_error_log\":\"learn_error.tsv\",\"training_options_file\":\"\",\"snapshot_file\":\"experiment.cbsnapshot\",\"save_snapshot\":false,\"model_format\":[\"CatboostBinary\"],\"final_feature_calcer_computation_mode\":\"Default\",\"metric_period\":1,\"output_borders\":\"\",\"final_ctr_computation_mode\":\"Default\",\"best_model_min_trees\":1,\"fstr_regular_file\":\"\"}",
       "params":
         {
@@ -1415,7 +1415,7 @@
               "sparse_features_conflict_fraction":0
             }
         },
-      "train_finish_time":"2020-07-30T18:22:47Z"
+      "train_finish_time":"2020-07-30T21:47:59Z"
     },
   "oblivious_trees":
     [
