@@ -1,6 +1,6 @@
 # COVID-predictions
 
-##PROJECT GOALS
+## PROJECT GOALS
 
 The goal of this project is to answer the question 'Can we predict which inpatient will need intensive care unit (ICU)?' based on parameters presented by the patients when admitted in to the ICU. Due to the time available for the project the aim is to answer the question for those patients in which their parameters were obtained during the 0-2 hour time window since their admittance.
 
@@ -89,6 +89,6 @@ It was decided to work with the top 5 models as our candidate models.
     
 Each of these models were used to predict a portion of the patients need to be admitted into the ICU since those were not used for the modelling with varying results of accuracy.
 
-##Future steps
+## Future steps
 
 The curation and cleaning process of the dataset can be aproached differently and the use of different models could also give another insight that could refine which parameters should be monitored more closely.
